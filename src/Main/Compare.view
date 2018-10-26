@@ -1,0 +1,11 @@
+Compare Vertical
+flexBasis auto
+flexGrow 1
+flexShrink 1
+List
+from <
+flexBasis auto
+flexGrow 1
+flexShrink 1
+overflowY auto
+Row

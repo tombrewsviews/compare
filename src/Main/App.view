@@ -1,0 +1,27 @@
+App Vertical
+alignItems center
+flexGrow 1
+flexShrink 1
+flexBasis auto
+justifyContent center
+Stats Horizontal
+height 300
+Stat
+
+Stat
+marginLeft 70
+tool Storybook
+total 11
+
+Stat
+marginLeft 70
+tool Views Tools 1
+total 24
+
+Stat
+marginLeft 70
+tool Views Tools 2+
+total 33
+
+
+Compare

@@ -1,0 +1,34 @@
+Stat Vertical
+flexBasis auto
+flexGrow 1
+flexShrink 1
+justifyContent center
+marginLeft < 0
+Horizontal
+borderTopRightRadius 4
+borderTopLeftRadius 4
+borderBottomRightRadius 4
+borderBottomLeftRadius 4
+alignItems baseline
+Text
+color #22cd6b
+fontFamily Montserrat
+fontSize 60
+fontWeight 600
+text <total 17
+
+Text
+color #c3c3c3
+fontFamily Montserrat
+fontSize 25
+fontWeight 400
+text /36
+marginLeft 8
+
+
+Text
+color #323232
+fontFamily Montserrat
+fontSize 25
+fontWeight 400
+text <tool FramerX

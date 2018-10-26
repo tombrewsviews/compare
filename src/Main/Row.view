@@ -1,0 +1,28 @@
+Row Horizontal
+height 50
+alignItems center
+Feature Horizontal
+alignItems center
+width 400
+paddingLeft 20
+Text
+color #323232
+fontFamily Montserrat
+fontSize 16
+fontWeight 400
+text Design system preview
+
+
+Framer Mark
+
+Storybook Mark
+marginLeft 4
+
+Supernova Mark
+marginLeft 4
+
+Views1 Mark
+marginLeft 4
+
+Views2 Mark
+marginLeft 4

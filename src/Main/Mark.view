@@ -1,0 +1,36 @@
+Mark Horizontal
+width 100
+height 40
+backgroundColor #ffffff
+borderTopLeftRadius 8
+borderTopRightRadius 8
+borderBottomLeftRadius 8
+borderBottomRightRadius 8
+justifyContent center
+alignItems center
+marginLeft < 0
+when <yes
+backgroundColor #3bcd79
+when <no
+backgroundColor #de7f7f
+when <na
+backgroundColor #e3e3e3
+Yes
+stroke #ffffff
+width 30
+height 30
+onWhen <yes
+
+No
+stroke #ffffff
+width 30
+height 30
+onWhen <no
+
+Text
+color #939393
+fontFamily Montserrat
+fontSize 18
+fontWeight 600
+text NA
+onWhen <na
