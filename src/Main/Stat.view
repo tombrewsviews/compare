@@ -1,9 +1,7 @@
 Stat Vertical
-flexBasis auto
-flexGrow 1
-flexShrink 1
 justifyContent center
 marginLeft < 0
+width 200
 Horizontal
 borderTopRightRadius 4
 borderTopLeftRadius 4
