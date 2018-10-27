@@ -14,3 +14,17 @@ dependencies by clicking on the Preview button.
 - [See this guide if you want to use the terminal to run your project
 instead.](README-USING-TERMINAL.md)
 - [See this guide to know how to build and deploy your project to the web.](README-BUILD.md)
+
+
+## Compile the data
+
+Download the spreadsheet from Google Docs as a TSV (Tab Separated Value) and put
+it in a file called `data.tsv` on the top folder of this project.
+
+Then run:
+
+```
+yarn data
+```
+
+It will create a file called `src/Main/comparison.json` with all you need!

@@ -13,15 +13,17 @@ color #22cd6b
 fontFamily Montserrat
 fontSize 60
 fontWeight 600
-text <total 17
+text <points 17
 
 Text
 color #c3c3c3
 fontFamily Montserrat
 fontSize 25
 fontWeight 400
-text /36
+text /Total
 marginLeft 8
+Total Text
+text <total
 
 
 Text

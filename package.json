@@ -15,6 +15,7 @@
   "scripts": {
     "start": "concurrently \"npm run dev\" \"npm run views\"",
     "build": "react-scripts build",
+    "data": "node convert-data.js",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "dev": "react-scripts start",

@@ -7,21 +7,34 @@ justifyContent center
 Stats Horizontal
 height 300
 Stat
+tool Framer X
+points <framerx
+total <
 
 Stat
 marginLeft 70
 tool Storybook
-total 11
+points <storybook
+total <
+
+Stat
+marginLeft 70
+tool Supernova
+points <supernova
+total <
 
 Stat
 marginLeft 70
 tool Views Tools 1
-total 24
+points <views
+total <
 
 Stat
 marginLeft 70
 tool Views Tools 2+
-total 33
+points <viewsnext
+total <
 
 
 Compare
+from <comparison

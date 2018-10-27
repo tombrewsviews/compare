@@ -1,0 +1,16 @@
+No Svg
+alignSelf < auto
+marginTop < 0
+marginBottom < 0
+marginLeft < 0
+marginRight < 0
+opacity < 1
+viewBox 0 0 40 40
+width < 40
+height < 40
+SvgPath
+fill < none
+stroke < #000
+strokeWidth 5
+strokeMiterlimit 10
+d M33 8L8 33M33 33L8 8

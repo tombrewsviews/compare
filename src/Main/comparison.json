@@ -1,0 +1,288 @@
+{
+  "stats": {
+    "framerx": 17,
+    "storybook": 11,
+    "supernova": 0,
+    "views": 24,
+    "viewsnext": 33,
+    "total": 37
+  },
+  "comparison": [
+    {
+      "feature": "Design system preview",
+      "framerx": true,
+      "storybook": true,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Helps you develop components in isolation",
+      "framerx": true,
+      "storybook": true,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Integrate any external componets",
+      "framerx": true,
+      "storybook": true,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Interactive components with adjustable custom props",
+      "framerx": true,
+      "storybook": true,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "On click interactions",
+      "framerx": true,
+      "storybook": true,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Flexible/adaptive layout",
+      "framerx": true,
+      "storybook": true,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Render custom React components in the artboard",
+      "framerx": true,
+      "storybook": true,
+      "supernova": false,
+      "views": false,
+      "viewsnext": true
+    },
+    {
+      "feature": "Drag and drop in the artboard",
+      "framerx": true,
+      "storybook": false,
+      "supernova": false,
+      "views": false,
+      "viewsnext": true
+    },
+    {
+      "feature": "Components store",
+      "framerx": true,
+      "storybook": false,
+      "supernova": false,
+      "views": false,
+      "viewsnext": true
+    },
+    {
+      "feature": "Layout composition",
+      "framerx": true,
+      "storybook": false,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Automated constrains within containers",
+      "framerx": true,
+      "storybook": false,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Reusable components",
+      "framerx": true,
+      "storybook": false,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Import SVGs",
+      "framerx": true,
+      "storybook": false,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Create click-through like flows (not ready for production, for prototypes only)",
+      "framerx": true,
+      "supernova": false
+    },
+    {
+      "feature": "Draw icons and vector shapes",
+      "framerx": true,
+      "supernova": false
+    },
+    {
+      "feature": "Requires copying CSS manually as part of code export",
+      "framerx": true,
+      "supernova": false
+    },
+    {
+      "feature": "Animated screen transitions",
+      "framerx": true,
+      "supernova": false,
+      "views": false,
+      "viewsnext": true
+    },
+    {
+      "feature": "Ability to support other frameworks (VueJS, Angular 4)",
+      "framerx": false,
+      "storybook": true,
+      "supernova": false,
+      "views": false,
+      "viewsnext": true
+    },
+    {
+      "feature": "No runtime dependency ",
+      "framerx": false,
+      "storybook": true,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Data driven lists",
+      "framerx": false,
+      "storybook": true,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Open source core",
+      "framerx": false,
+      "storybook": true,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Cross platform code (Web and Native)",
+      "framerx": false,
+      "storybook": false,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Production project preview (React Web)",
+      "framerx": false,
+      "storybook": false,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Production ready animations ",
+      "framerx": false,
+      "storybook": false,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Create and render component states",
+      "framerx": false,
+      "storybook": false,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Automated E2E helpers (end to end for React Web)",
+      "framerx": false,
+      "storybook": false,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Create custom prop overrides with one click",
+      "framerx": false,
+      "storybook": false,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Create production build",
+      "framerx": false,
+      "storybook": false,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Automated production ready code",
+      "framerx": false,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Extend any design component with custom logic",
+      "framerx": false,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Edit design components in code editor",
+      "framerx": false,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Fully control the compiled output",
+      "framerx": false,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Design system style guide specifications",
+      "framerx": false,
+      "storybook": false,
+      "supernova": false,
+      "views": false,
+      "viewsnext": true
+    },
+    {
+      "feature": "Version control",
+      "framerx": false,
+      "storybook": false,
+      "supernova": false,
+      "views": false,
+      "viewsnext": true
+    },
+    {
+      "feature": "Production project preview (React Native)",
+      "framerx": false,
+      "storybook": false,
+      "supernova": false,
+      "views": false,
+      "viewsnext": true
+    },
+    {
+      "feature": "Production ready flows",
+      "framerx": false,
+      "supernova": false,
+      "views": false,
+      "viewsnext": true
+    },
+    {
+      "feature": ""
+    }
+  ]
+}

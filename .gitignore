@@ -23,6 +23,6 @@ yarn-error.log*
 # views
 **/*.view.js
 **/Fonts/*.js
-**/Svgs/*.view
-**/Images/*.view
 src/index-viewstools.js
+
+data.tsv
