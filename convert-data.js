@@ -20,7 +20,7 @@ let comparison = data
       views: mark(views),
       viewsnext: mark(viewsnext),
     }
-  })
+  }).filter(c => c.feature)
 
 let stats = {}
 stats.framerx = comparison.filter(c => c.framerx).length

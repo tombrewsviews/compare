@@ -16,21 +16,21 @@ backgroundColor #de7f7f
 when <na
 backgroundColor #e3e3e3
 Yes
+onWhen <yes
 stroke #ffffff
 width 30
 height 30
-onWhen <yes
 
 No
+onWhen <no
 stroke #ffffff
 width 30
 height 30
-onWhen <no
 
 Text
+onWhen <na
 color #939393
 fontFamily Montserrat
 fontSize 18
 fontWeight 600
 text NA
-onWhen <na
