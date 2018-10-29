@@ -1,7 +1,7 @@
 Stat Vertical
 justifyContent center
 marginLeft < 0
-width 200
+width 145
 Horizontal
 borderTopRightRadius 4
 borderTopLeftRadius 4
@@ -29,6 +29,6 @@ text <total
 Text
 color #323232
 fontFamily Montserrat
-fontSize 25
+fontSize 20
 fontWeight 400
 text <tool FramerX

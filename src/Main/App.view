@@ -4,35 +4,54 @@ flexGrow 1
 flexShrink 1
 flexBasis auto
 justifyContent center
+overflowY auto
+Text
+width 1010
+marginTop 50
+color #424242
+fontFamily Montserrat
+fontSize 40
+fontWeight 600
+text Better alternative to FramerX, Storybook, and Supernova
+
+Text
+width 1010
+marginTop 20
+color #424242
+fontFamily Montserrat
+fontSize 25
+fontWeight 300
+text Views lives beside your app in development mode and helps you build durable UIs faster
+
 Stats Horizontal
 height 300
 Stat
 tool Framer X
-points <framerx
+points <framerx 18
 total <
 
 Stat
 marginLeft 70
 tool Storybook
-points <storybook
+points <storybook 23
 total <
 
 Stat
 marginLeft 70
 tool Supernova
-points <supernova
+points <supernova 1
 total <
 
 Stat
 marginLeft 70
 tool Views Tools 1
-points <views
+points <views 34
 total <
 
 Stat
 marginLeft 70
 tool Views Tools 2+
-points <viewsnext
+points <viewsnext 34
 total <
 
 
