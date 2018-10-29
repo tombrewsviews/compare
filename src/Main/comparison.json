@@ -1,27 +1,42 @@
 {
   "stats": {
     "framerx": 17,
-    "storybook": 11,
-    "supernova": 0,
-    "views": 24,
-    "viewsnext": 33,
-    "total": 36
+    "storybook": 12,
+    "supernova": 15,
+    "views": 25,
+    "viewsnext": 34,
+    "total": 37
   },
   "comparison": [
     {
-      "feature": "Design system preview",
+      "feature": "On click interactions",
       "framerx": true,
       "storybook": true,
-      "supernova": false,
+      "supernova": true,
       "views": true,
       "viewsnext": true
+    },
+    {
+      "feature": "Sketch Import",
+      "framerx": true,
+      "storybook": false,
+      "supernova": true,
+      "views": false,
+      "viewsnext": false
     },
     {
       "feature": "Helps you develop components in isolation",
       "framerx": true,
       "storybook": true,
-      "supernova": false,
+      "supernova": true,
       "views": true,
+      "viewsnext": true
+    },
+    {
+      "feature": "Animated screen transitions",
+      "framerx": true,
+      "supernova": true,
+      "views": false,
       "viewsnext": true
     },
     {
@@ -34,14 +49,6 @@
     },
     {
       "feature": "Interactive components with adjustable custom props",
-      "framerx": true,
-      "storybook": true,
-      "supernova": false,
-      "views": true,
-      "viewsnext": true
-    },
-    {
-      "feature": "On click interactions",
       "framerx": true,
       "storybook": true,
       "supernova": false,
@@ -65,10 +72,18 @@
       "viewsnext": true
     },
     {
+      "feature": "Design system preview",
+      "framerx": true,
+      "storybook": true,
+      "supernova": false,
+      "views": true,
+      "viewsnext": true
+    },
+    {
       "feature": "Drag and drop in the artboard",
       "framerx": true,
       "storybook": false,
-      "supernova": false,
+      "supernova": true,
       "views": false,
       "viewsnext": true
     },
@@ -84,7 +99,7 @@
       "feature": "Layout composition",
       "framerx": true,
       "storybook": false,
-      "supernova": false,
+      "supernova": true,
       "views": true,
       "viewsnext": true
     },
@@ -100,7 +115,7 @@
       "feature": "Reusable components",
       "framerx": true,
       "storybook": false,
-      "supernova": false,
+      "supernova": true,
       "views": true,
       "viewsnext": true
     },
@@ -114,24 +129,18 @@
     },
     {
       "feature": "Create click-through like flows (not ready for production)",
-      "framerx": true,
-      "supernova": false
+      "framerx": true
     },
     {
       "feature": "Draw icons and vector shapes",
-      "framerx": true,
-      "supernova": false
+      "framerx": true
     },
     {
-      "feature": "Requires copying CSS manually as part of code export",
-      "framerx": true,
-      "supernova": false
-    },
-    {
-      "feature": "Animated screen transitions",
-      "framerx": true,
+      "feature": "Integrated with your application source code",
+      "framerx": false,
+      "storybook": true,
       "supernova": false,
-      "views": false,
+      "views": true,
       "viewsnext": true
     },
     {
@@ -146,7 +155,7 @@
       "feature": "No runtime dependency ",
       "framerx": false,
       "storybook": true,
-      "supernova": false,
+      "supernova": true,
       "views": true,
       "viewsnext": true
     },
@@ -154,7 +163,7 @@
       "feature": "Data driven lists",
       "framerx": false,
       "storybook": true,
-      "supernova": false,
+      "supernova": true,
       "views": true,
       "viewsnext": true
     },
@@ -186,7 +195,7 @@
       "feature": "Production ready animations ",
       "framerx": false,
       "storybook": false,
-      "supernova": false,
+      "supernova": true,
       "views": true,
       "viewsnext": true
     },
@@ -218,14 +227,14 @@
       "feature": "Create production build",
       "framerx": false,
       "storybook": false,
-      "supernova": false,
+      "supernova": true,
       "views": true,
       "viewsnext": true
     },
     {
       "feature": "Automated production ready code",
       "framerx": false,
-      "supernova": false,
+      "supernova": true,
       "views": true,
       "viewsnext": true
     },
@@ -239,7 +248,7 @@
     {
       "feature": "Edit design components in code editor",
       "framerx": false,
-      "supernova": false,
+      "supernova": true,
       "views": true,
       "viewsnext": true
     },
@@ -270,14 +279,14 @@
       "feature": "Production project preview (React Native)",
       "framerx": false,
       "storybook": false,
-      "supernova": false,
+      "supernova": true,
       "views": false,
       "viewsnext": true
     },
     {
       "feature": "Production ready flows",
       "framerx": false,
-      "supernova": false,
+      "supernova": true,
       "views": false,
       "viewsnext": true
     }
