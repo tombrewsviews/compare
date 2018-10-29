@@ -8,12 +8,13 @@ let comparison = data
   .split('\n')
   .slice(1)
   .map(line => {
-    let [feature, framerx, storybook, supernova, views, viewsnext] = line.split(
+    let [feature, framerx, storybook, supernova, views, viewsnext, description = ''] = line.split(
       '\t'
     )
 
     return {
       feature,
+      description: description.trim(),
       framerx: mark(framerx),
       storybook: mark(storybook),
       supernova: mark(supernova),

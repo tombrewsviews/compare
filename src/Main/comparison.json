@@ -2,7 +2,7 @@
   "stats": {
     "framerx": 17,
     "storybook": 12,
-    "supernova": 15,
+    "supernova": 14,
     "views": 25,
     "viewsnext": 34,
     "total": 37
@@ -10,6 +10,7 @@
   "comparison": [
     {
       "feature": "On click interactions",
+      "description": "Things that happen when you click on it",
       "framerx": true,
       "storybook": true,
       "supernova": true,
@@ -18,6 +19,7 @@
     },
     {
       "feature": "Sketch Import",
+      "description": "Bringing your mockups in from sketch",
       "framerx": true,
       "storybook": false,
       "supernova": true,
@@ -26,6 +28,7 @@
     },
     {
       "feature": "Helps you develop components in isolation",
+      "description": "",
       "framerx": true,
       "storybook": true,
       "supernova": true,
@@ -34,6 +37,7 @@
     },
     {
       "feature": "Animated screen transitions",
+      "description": "",
       "framerx": true,
       "supernova": true,
       "views": false,
@@ -41,6 +45,7 @@
     },
     {
       "feature": "Integrate any external componets",
+      "description": "",
       "framerx": true,
       "storybook": true,
       "supernova": false,
@@ -49,6 +54,7 @@
     },
     {
       "feature": "Interactive components with adjustable custom props",
+      "description": "",
       "framerx": true,
       "storybook": true,
       "supernova": false,
@@ -57,6 +63,7 @@
     },
     {
       "feature": "Flexible/adaptive layout",
+      "description": "",
       "framerx": true,
       "storybook": true,
       "supernova": false,
@@ -65,6 +72,7 @@
     },
     {
       "feature": "Render custom React components in the artboard",
+      "description": "",
       "framerx": true,
       "storybook": true,
       "supernova": false,
@@ -73,6 +81,7 @@
     },
     {
       "feature": "Design system preview",
+      "description": "",
       "framerx": true,
       "storybook": true,
       "supernova": false,
@@ -81,6 +90,7 @@
     },
     {
       "feature": "Drag and drop in the artboard",
+      "description": "",
       "framerx": true,
       "storybook": false,
       "supernova": true,
@@ -89,6 +99,7 @@
     },
     {
       "feature": "Components store",
+      "description": "",
       "framerx": true,
       "storybook": false,
       "supernova": false,
@@ -97,6 +108,7 @@
     },
     {
       "feature": "Layout composition",
+      "description": "",
       "framerx": true,
       "storybook": false,
       "supernova": true,
@@ -105,6 +117,7 @@
     },
     {
       "feature": "Automated constrains within containers",
+      "description": "",
       "framerx": true,
       "storybook": false,
       "supernova": false,
@@ -113,6 +126,7 @@
     },
     {
       "feature": "Reusable components",
+      "description": "",
       "framerx": true,
       "storybook": false,
       "supernova": true,
@@ -121,6 +135,7 @@
     },
     {
       "feature": "Import SVGs",
+      "description": "",
       "framerx": true,
       "storybook": false,
       "supernova": false,
@@ -129,14 +144,17 @@
     },
     {
       "feature": "Create click-through like flows (not ready for production)",
+      "description": "",
       "framerx": true
     },
     {
       "feature": "Draw icons and vector shapes",
+      "description": "",
       "framerx": true
     },
     {
       "feature": "Integrated with your application source code",
+      "description": "",
       "framerx": false,
       "storybook": true,
       "supernova": false,
@@ -145,6 +163,7 @@
     },
     {
       "feature": "Ability to support other frameworks (VueJS, Angular 4)",
+      "description": "",
       "framerx": false,
       "storybook": true,
       "supernova": false,
@@ -153,6 +172,7 @@
     },
     {
       "feature": "No runtime dependency ",
+      "description": "",
       "framerx": false,
       "storybook": true,
       "supernova": true,
@@ -161,14 +181,16 @@
     },
     {
       "feature": "Data driven lists",
+      "description": "",
       "framerx": false,
       "storybook": true,
-      "supernova": true,
+      "supernova": false,
       "views": true,
       "viewsnext": true
     },
     {
       "feature": "Open source core",
+      "description": "",
       "framerx": false,
       "storybook": true,
       "supernova": false,
@@ -177,6 +199,7 @@
     },
     {
       "feature": "Cross platform code (Web and Native)",
+      "description": "",
       "framerx": false,
       "storybook": false,
       "supernova": false,
@@ -185,6 +208,7 @@
     },
     {
       "feature": "Production project preview (React Web)",
+      "description": "",
       "framerx": false,
       "storybook": false,
       "supernova": false,
@@ -193,6 +217,7 @@
     },
     {
       "feature": "Production ready animations ",
+      "description": "",
       "framerx": false,
       "storybook": false,
       "supernova": true,
@@ -201,6 +226,7 @@
     },
     {
       "feature": "Create and render component states",
+      "description": "",
       "framerx": false,
       "storybook": false,
       "supernova": false,
@@ -209,6 +235,7 @@
     },
     {
       "feature": "Automated E2E helpers (end to end for React Web)",
+      "description": "",
       "framerx": false,
       "storybook": false,
       "supernova": false,
@@ -217,6 +244,7 @@
     },
     {
       "feature": "Create custom prop overrides with one click",
+      "description": "",
       "framerx": false,
       "storybook": false,
       "supernova": false,
@@ -225,6 +253,7 @@
     },
     {
       "feature": "Create production build",
+      "description": "",
       "framerx": false,
       "storybook": false,
       "supernova": true,
@@ -233,6 +262,7 @@
     },
     {
       "feature": "Automated production ready code",
+      "description": "",
       "framerx": false,
       "supernova": true,
       "views": true,
@@ -240,6 +270,7 @@
     },
     {
       "feature": "Extend any design component with custom logic",
+      "description": "",
       "framerx": false,
       "supernova": false,
       "views": true,
@@ -247,6 +278,7 @@
     },
     {
       "feature": "Edit design components in code editor",
+      "description": "",
       "framerx": false,
       "supernova": true,
       "views": true,
@@ -254,6 +286,7 @@
     },
     {
       "feature": "Fully control the compiled output",
+      "description": "",
       "framerx": false,
       "supernova": false,
       "views": true,
@@ -261,6 +294,7 @@
     },
     {
       "feature": "Design system style guide specifications",
+      "description": "",
       "framerx": false,
       "storybook": false,
       "supernova": false,
@@ -269,6 +303,7 @@
     },
     {
       "feature": "Version control",
+      "description": "",
       "framerx": false,
       "storybook": false,
       "supernova": false,
@@ -277,6 +312,7 @@
     },
     {
       "feature": "Production project preview (React Native)",
+      "description": "",
       "framerx": false,
       "storybook": false,
       "supernova": true,
@@ -285,6 +321,7 @@
     },
     {
       "feature": "Production ready flows",
+      "description": "",
       "framerx": false,
       "supernova": true,
       "views": false,

@@ -1,6 +1,13 @@
 Row Horizontal
 height 50
 alignItems center
+onMouseEnter <
+onMouseMove <
+onMouseLeave <
+Tooltip
+isShowing <isShowingTooltip
+text <description
+
 Feature Horizontal
 alignItems center
 width 500
