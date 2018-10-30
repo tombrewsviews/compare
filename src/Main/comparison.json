@@ -10,7 +10,7 @@
   "comparison": [
     {
       "feature": "On click interactions",
-      "description": "Things that happen when you click on it",
+      "description": "Assign an interactive behaviour to the design components using properties panel",
       "framerx": true,
       "storybook": true,
       "supernova": true,
@@ -19,7 +19,7 @@
     },
     {
       "feature": "Sketch Import",
-      "description": "Bringing your mockups in from sketch",
+      "description": "Import Sketch files with positioned \"absolute\" layers in the artboard",
       "framerx": true,
       "storybook": false,
       "supernova": true,
@@ -28,7 +28,7 @@
     },
     {
       "feature": "Helps you develop components in isolation",
-      "description": "",
+      "description": "Make and tweak each component's layout, style, and states on itsown, without need to navigate in the preview or local build",
       "framerx": true,
       "storybook": true,
       "supernova": true,
@@ -37,7 +37,7 @@
     },
     {
       "feature": "Animated screen transitions",
-      "description": "",
+      "description": "Animate how one screen (or route) transitions to another one",
       "framerx": true,
       "supernova": true,
       "views": false,
@@ -45,7 +45,7 @@
     },
     {
       "feature": "Integrate any external componets",
-      "description": "",
+      "description": "Use custom React components (downloaded from i.e. NPM, or written by you in JavaScript) side by side the design components (created in the tool by designers, without code knowldge)",
       "framerx": true,
       "storybook": true,
       "supernova": false,
@@ -53,8 +53,8 @@
       "viewsnext": true
     },
     {
-      "feature": "Interactive components with adjustable custom props",
-      "description": "",
+      "feature": "Make components with adjustable custom props",
+      "description": "Create design components with props exposed to the other components, business logic, or services",
       "framerx": true,
       "storybook": true,
       "supernova": false,
@@ -63,7 +63,7 @@
     },
     {
       "feature": "Flexible/adaptive layout",
-      "description": "",
+      "description": "Use a flexbox-like model to lay out elements that adapt to the size of the screen or window size. Flexible layouts are the opposite of position absolute layouts, where elements don't react to the screen size (position absolute elements remain in the same position regardless of the screen or browser's window size)",
       "framerx": true,
       "storybook": true,
       "supernova": false,
@@ -72,7 +72,7 @@
     },
     {
       "feature": "Render custom React components in the artboard",
-      "description": "",
+      "description": "View and compose using the external/ custom React components in the artboard, inside of the tool, without the need to run the preview",
       "framerx": true,
       "storybook": true,
       "supernova": false,
@@ -81,7 +81,7 @@
     },
     {
       "feature": "Design system preview",
-      "description": "",
+      "description": "Access all components used in the project. Usually, a design system allows to browse and preview all parts of the project on theirown",
       "framerx": true,
       "storybook": true,
       "supernova": false,
@@ -90,7 +90,7 @@
     },
     {
       "feature": "Drag and drop in the artboard",
-      "description": "",
+      "description": "Move layers/ elements of the design in the artboard using drag and drop functionality without wrting code. Includes dragging between the containers",
       "framerx": true,
       "storybook": false,
       "supernova": true,
@@ -99,7 +99,7 @@
     },
     {
       "feature": "Components store",
-      "description": "",
+      "description": "Browse and import components made by others from a store-like curated group within the tool, and without writing code",
       "framerx": true,
       "storybook": false,
       "supernova": false,
@@ -108,7 +108,7 @@
     },
     {
       "feature": "Layout composition",
-      "description": "",
+      "description": "Create complex layouts using multiple elements",
       "framerx": true,
       "storybook": false,
       "supernova": true,
@@ -117,7 +117,7 @@
     },
     {
       "feature": "Automated constrains within containers",
-      "description": "",
+      "description": "Use rules and auto-layouts to create smart/ flexible/ adaptive compositions",
       "framerx": true,
       "storybook": false,
       "supernova": false,
@@ -126,7 +126,7 @@
     },
     {
       "feature": "Reusable components",
-      "description": "",
+      "description": "Save to further reuse components in other parts of the design",
       "framerx": true,
       "storybook": false,
       "supernova": true,
@@ -135,7 +135,7 @@
     },
     {
       "feature": "Import SVGs",
-      "description": "",
+      "description": "Import SVG files and use them in the layouts",
       "framerx": true,
       "storybook": false,
       "supernova": false,
@@ -143,18 +143,18 @@
       "viewsnext": true
     },
     {
-      "feature": "Create click-through like flows (not ready for production)",
-      "description": "",
+      "feature": "Mock click-through like flows",
+      "description": "Link interactive components between each other to prototype user journeys. The output is only a fake mockup and it's not usable in production. Production ready flows are covered in separate point",
       "framerx": true
     },
     {
       "feature": "Draw icons and vector shapes",
-      "description": "",
+      "description": "Draw vector shapes using Bezier point paths and perform operations on paths",
       "framerx": true
     },
     {
       "feature": "Integrated with your application source code",
-      "description": "",
+      "description": "The components built with the tool are part of the same codebase used by the developers to build the app used by the users",
       "framerx": false,
       "storybook": true,
       "supernova": false,
@@ -163,7 +163,7 @@
     },
     {
       "feature": "Ability to support other frameworks (VueJS, Angular 4)",
-      "description": "",
+      "description": "Design components can be compiled to work with frameworks other than React",
       "framerx": false,
       "storybook": true,
       "supernova": false,
@@ -172,7 +172,7 @@
     },
     {
       "feature": "No runtime dependency ",
-      "description": "",
+      "description": "When there is no additional process added to the runtime of the application. The compilation process happens in the development mode, and it is not a part of the production build",
       "framerx": false,
       "storybook": true,
       "supernova": true,
@@ -181,7 +181,7 @@
     },
     {
       "feature": "Data driven lists",
-      "description": "",
+      "description": "Use data to display the list's content in a similar way the users would see them",
       "framerx": false,
       "storybook": true,
       "supernova": false,
@@ -190,7 +190,7 @@
     },
     {
       "feature": "Open source core",
-      "description": "",
+      "description": "Keep using the framework for free and regardless if you pay for the tool's licence. The tool is an addition to the open source framework to help speed up the design process",
       "framerx": false,
       "storybook": true,
       "supernova": false,
@@ -199,7 +199,7 @@
     },
     {
       "feature": "Cross platform code (Web and Native)",
-      "description": "",
+      "description": "Use the same design components to generate Web and Native components without additional refactoring",
       "framerx": false,
       "storybook": false,
       "supernova": false,
@@ -207,8 +207,8 @@
       "viewsnext": true
     },
     {
-      "feature": "Production project preview (React Web)",
-      "description": "",
+      "feature": "React Web project preview",
+      "description": "Start the React Web project to preview how the production build looks like and behaives - See what the user sees in the browser",
       "framerx": false,
       "storybook": false,
       "supernova": false,
@@ -217,7 +217,7 @@
     },
     {
       "feature": "Production ready animations ",
-      "description": "",
+      "description": "Animate the properties of design components between their states, like buttons or navigation, and use them without additional development work in the final production build",
       "framerx": false,
       "storybook": false,
       "supernova": true,
@@ -226,7 +226,7 @@
     },
     {
       "feature": "Create and render component states",
-      "description": "",
+      "description": "Create and design custom states of the design components, ie. an item is purchased so the background changed to green and \"Added to cart\" text appeared in the view",
       "framerx": false,
       "storybook": false,
       "supernova": false,
@@ -235,7 +235,7 @@
     },
     {
       "feature": "Automated E2E helpers (end to end for React Web)",
-      "description": "",
+      "description": "Automatically generate end to end test selectors to simplify and speed up the Quality Assurance work",
       "framerx": false,
       "storybook": false,
       "supernova": false,
@@ -244,7 +244,7 @@
     },
     {
       "feature": "Create custom prop overrides with one click",
-      "description": "",
+      "description": "Create links between properties of the base component and the component used in the layout. Custom props allow you to take full control over the way components look like at the point of use, and override the defaults saved in the design system",
       "framerx": false,
       "storybook": false,
       "supernova": false,
@@ -253,7 +253,7 @@
     },
     {
       "feature": "Create production build",
-      "description": "",
+      "description": "Create final build of your app for the users to access. Production build includes performance optimisations and code minification",
       "framerx": false,
       "storybook": false,
       "supernova": true,
@@ -262,7 +262,7 @@
     },
     {
       "feature": "Automated production ready code",
-      "description": "",
+      "description": "Sync the development environment with the production without manual code export, copy and paste hand-off, or refactoring",
       "framerx": false,
       "supernova": true,
       "views": true,
@@ -270,7 +270,7 @@
     },
     {
       "feature": "Extend any design component with custom logic",
-      "description": "",
+      "description": "Control the look and add behaviour to design components using custom written JavaScript code",
       "framerx": false,
       "supernova": false,
       "views": true,
@@ -278,7 +278,7 @@
     },
     {
       "feature": "Edit design components in code editor",
-      "description": "",
+      "description": "Open and edit files in the code editor of your choice - developmers friendly feature",
       "framerx": false,
       "supernova": true,
       "views": true,
@@ -286,7 +286,7 @@
     },
     {
       "feature": "Fully control the compiled output",
-      "description": "",
+      "description": "Developers can change anything in the project structure and its dependencies without conflicts with the files provided by the tool",
       "framerx": false,
       "supernova": false,
       "views": true,
@@ -294,7 +294,7 @@
     },
     {
       "feature": "Design system style guide specifications",
-      "description": "",
+      "description": "Compile and preview in one style guide document all styles, colors, font families, icons, etc.",
       "framerx": false,
       "storybook": false,
       "supernova": false,
@@ -303,7 +303,7 @@
     },
     {
       "feature": "Version control",
-      "description": "",
+      "description": "Control what's commited and pushed to the code repository of your project. Not to confuse with undo/redo feature",
       "framerx": false,
       "storybook": false,
       "supernova": false,
@@ -311,8 +311,8 @@
       "viewsnext": true
     },
     {
-      "feature": "Production project preview (React Native)",
-      "description": "",
+      "feature": "React Native project preview ",
+      "description": "Start the React Native project to preview how the production build looks like and behaives - See what the user sees on mobile devices",
       "framerx": false,
       "storybook": false,
       "supernova": true,
@@ -321,7 +321,7 @@
     },
     {
       "feature": "Production ready flows",
-      "description": "",
+      "description": "Connect states and routes of your layouts into a state-machine-like flow used in the production build to enable users to navigate the application",
       "framerx": false,
       "supernova": true,
       "views": false,
