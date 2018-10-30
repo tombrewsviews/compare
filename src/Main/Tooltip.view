@@ -1,29 +1,28 @@
 Tooltip Vertical
 opacity 0
+width 460
 position absolute
-top 30
+top 200
+left 530
 alignItems center
 pointerEvents none
-backgroundColor white
+backgroundColor rgba(0,0,0,0.9)
 borderBottomRightRadius 4
 borderBottomLeftRadius 4
 borderTopLeftRadius 4
 borderTopRightRadius 4
-paddingTop 4
-paddingBottom 4
-paddingRight 8
-paddingLeft 8
+paddingTop 10
+paddingBottom 10
+paddingRight 15
+paddingLeft 15
 zIndex 2
-shadowOffsetX 0
-shadowOffsetY 4
-shadowBlur 10
-shadowSpread 0
-shadowColor rgba(101,142,173,0.15)
 when <isShowing
-top 40 spring
+top 140 spring
 opacity 1 ease delay 100
 Text
 fontFamily Montserrat
 fontWeight 400
-fontSize 9
+fontSize 14
+color white
+lineHeight 1.5
 text < TOOLTIP

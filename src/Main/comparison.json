@@ -19,7 +19,7 @@
     },
     {
       "feature": "Sketch Import",
-      "description": "Import Sketch files with positioned \"absolute\" layers in the artboard",
+      "description": "Import Sketch files with layers in the artboard positioned \"absolute\". Each layer has defined the position related to the top left corner of the artboard (0,0) and requires a redefinition of the flexible rules every time change is made to the Sketch file",
       "framerx": true,
       "storybook": false,
       "supernova": true,
@@ -28,7 +28,7 @@
     },
     {
       "feature": "Helps you develop components in isolation",
-      "description": "Make and tweak each component's layout, style, and states on itsown, without need to navigate in the preview or local build",
+      "description": "Make and tweak each component's layout, style, and states on its own, without the need to navigate in the preview or local build",
       "framerx": true,
       "storybook": true,
       "supernova": true,
@@ -45,7 +45,7 @@
     },
     {
       "feature": "Integrate any external componets",
-      "description": "Use custom React components (downloaded from i.e. NPM, or written by you in JavaScript) side by side the design components (created in the tool by designers, without code knowldge)",
+      "description": "Use custom React components side by side the design components (custom components - downloaded from, i.e. NPM, or written by you in JavaScript; design components - created in the tool by designers, without code knowledge)",
       "framerx": true,
       "storybook": true,
       "supernova": false,
@@ -63,7 +63,7 @@
     },
     {
       "feature": "Flexible/adaptive layout",
-      "description": "Use a flexbox-like model to lay out elements that adapt to the size of the screen or window size. Flexible layouts are the opposite of position absolute layouts, where elements don't react to the screen size (position absolute elements remain in the same position regardless of the screen or browser's window size)",
+      "description": "Use a flexbox-like model to lay out elements that adapt to the size of the screen or window size. Flexible layouts are the opposite of absolute position layouts, where elements don't react to the screen size (position absolute elements remain in the same position regardless of the screen or browser's window size)",
       "framerx": true,
       "storybook": true,
       "supernova": false,
@@ -81,7 +81,7 @@
     },
     {
       "feature": "Design system preview",
-      "description": "Access all components used in the project. Usually, a design system allows to browse and preview all parts of the project on theirown",
+      "description": "Access all components used in the project. Usually, a design system allows to browse and preview all parts of the project on their own",
       "framerx": true,
       "storybook": true,
       "supernova": false,
@@ -90,7 +90,7 @@
     },
     {
       "feature": "Drag and drop in the artboard",
-      "description": "Move layers/ elements of the design in the artboard using drag and drop functionality without wrting code. Includes dragging between the containers",
+      "description": "Move layers/ elements of the design in the artboard using drag and drop functionality without writing code. Includes dragging between the containers",
       "framerx": true,
       "storybook": false,
       "supernova": true,
@@ -144,7 +144,7 @@
     },
     {
       "feature": "Mock click-through like flows",
-      "description": "Link interactive components between each other to prototype user journeys. The output is only a fake mockup and it's not usable in production. Production ready flows are covered in separate point",
+      "description": "Link interactive components between each other to prototype user journeys. The output is only a fake mockup, and it's not usable in production. Production ready flows are covered in separate point",
       "framerx": true
     },
     {
@@ -154,7 +154,7 @@
     },
     {
       "feature": "Integrated with your application source code",
-      "description": "The components built with the tool are part of the same codebase used by the developers to build the app used by the users",
+      "description": "The components built with the tool are part of the same code base used by the developers to build the app finally used by the users",
       "framerx": false,
       "storybook": true,
       "supernova": false,
@@ -172,7 +172,7 @@
     },
     {
       "feature": "No runtime dependency ",
-      "description": "When there is no additional process added to the runtime of the application. The compilation process happens in the development mode, and it is not a part of the production build",
+      "description": "There is no additional process added to the runtime of the application. The compilation process happens in the development mode, and it is not a part of the production build",
       "framerx": false,
       "storybook": true,
       "supernova": true,
@@ -208,7 +208,7 @@
     },
     {
       "feature": "React Web project preview",
-      "description": "Start the React Web project to preview how the production build looks like and behaives - See what the user sees in the browser",
+      "description": "Start the React Web project to preview how the production build looks like and behaves - See what the user sees in the browser",
       "framerx": false,
       "storybook": false,
       "supernova": false,
@@ -226,7 +226,7 @@
     },
     {
       "feature": "Create and render component states",
-      "description": "Create and design custom states of the design components, ie. an item is purchased so the background changed to green and \"Added to cart\" text appeared in the view",
+      "description": "Create and design custom states of the design components, i.e. an item is purchased, so the background changed to green and \"Added to cart\" text appeared in the view",
       "framerx": false,
       "storybook": false,
       "supernova": false,
@@ -278,7 +278,7 @@
     },
     {
       "feature": "Edit design components in code editor",
-      "description": "Open and edit files in the code editor of your choice - developmers friendly feature",
+      "description": "Open and edit files in the code editor of your choice - developers friendly feature",
       "framerx": false,
       "supernova": true,
       "views": true,
@@ -294,7 +294,7 @@
     },
     {
       "feature": "Design system style guide specifications",
-      "description": "Compile and preview in one style guide document all styles, colors, font families, icons, etc.",
+      "description": "Compile and preview in one style guide document all styles, colours, font families, icons, etc.",
       "framerx": false,
       "storybook": false,
       "supernova": false,
@@ -303,7 +303,7 @@
     },
     {
       "feature": "Version control",
-      "description": "Control what's commited and pushed to the code repository of your project. Not to confuse with undo/redo feature",
+      "description": "Control what's committed and pushed to the code repository of your project. Not to confuse with undo/redo feature",
       "framerx": false,
       "storybook": false,
       "supernova": false,
@@ -312,7 +312,7 @@
     },
     {
       "feature": "React Native project preview ",
-      "description": "Start the React Native project to preview how the production build looks like and behaives - See what the user sees on mobile devices",
+      "description": "Start the React Native project to preview how the production build looks like and behaves - See what the user sees on mobile devices",
       "framerx": false,
       "storybook": false,
       "supernova": true,

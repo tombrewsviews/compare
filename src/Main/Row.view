@@ -4,6 +4,13 @@ alignItems center
 onMouseEnter <
 onMouseMove <
 onMouseLeave <
+onClick <
+paddingBottom 0
+paddingTop 0
+when <isHovered
+#marginBottom 30 linear
+#marginTop 30 linear
+height 150 linear
 Tooltip
 isShowing <isShowingTooltip
 text <description
@@ -11,6 +18,7 @@ text <description
 Feature Horizontal
 alignItems center
 width 500
+onClick <
 Text
 color #323232
 fontFamily Montserrat
