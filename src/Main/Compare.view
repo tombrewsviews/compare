@@ -7,7 +7,7 @@ width 1020
 marginBottom 10
 paddingTop 20
 paddingBottom 20
-position fixed
+position sticky
 top 0
 backgroundColor rgba(255,255,255,0.97)
 borderBottomColor #f2f2f2

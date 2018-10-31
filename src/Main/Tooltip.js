@@ -14,8 +14,17 @@ export default class Tooltip extends React.Component {
     }
   }
 
+  timeout = null
+
   onMouseEnter = () => {
-    this.setState({ isShowingTooltip: true })
+    this.timeout = setTimeout(() => {
+      if (!this.timeout) {
+        return
+      }
+
+      this.setState({ isShowingTooltip: true })
+      this.timeout = null
+    }, 100)
   }
 
   onMouseMove = () => {
@@ -25,6 +34,10 @@ export default class Tooltip extends React.Component {
   }
 
   onMouseLeave = () => {
+    if (this.timeout) {
+      this.timeout = null
+      return
+    }
     this.setState({ isShowingTooltip: false })
   }
 

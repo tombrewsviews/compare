@@ -1,10 +1,9 @@
 App Vertical
 alignItems center
 flexGrow 1
-flexShrink 1
+flexShrink 0
 flexBasis auto
 justifyContent center
-overflowY auto
 Text
 width 1010
 marginTop 50

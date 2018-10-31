@@ -2,7 +2,7 @@ Tooltip Vertical
 opacity 0
 width 460
 position absolute
-top 200
+top 100
 left 530
 alignItems center
 pointerEvents none
@@ -17,7 +17,7 @@ paddingRight 15
 paddingLeft 15
 zIndex 2
 when <isShowing
-top 140 spring
+top 55 spring
 opacity 1 ease delay 100
 Text
 fontFamily Montserrat

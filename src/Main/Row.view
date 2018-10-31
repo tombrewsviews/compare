@@ -4,13 +4,6 @@ alignItems center
 onMouseEnter <
 onMouseMove <
 onMouseLeave <
-onClick <
-paddingBottom 0
-paddingTop 0
-when <isHovered
-#marginBottom 30 linear
-#marginTop 30 linear
-height 150 linear
 Tooltip
 isShowing <isShowingTooltip
 text <description
@@ -25,6 +18,19 @@ fontFamily Montserrat
 fontSize 16
 fontWeight 400
 text <feature Design system preview
+scale 1
+transformOriginX left
+transformOriginY top
+when <isShowingTooltip
+scale 1.05 linear
+
+Text
+position absolute
+right 20
+text >
+opacity 0
+when <isShowingTooltip
+opacity 1 linear
 
 
 Framer Mark
