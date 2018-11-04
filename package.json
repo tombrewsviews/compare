@@ -22,7 +22,7 @@
     "views": "views-morph src --watch --as react-dom",
     "prebuild": "views-morph src --as react-dom",
     "predeploy": "npm run build",
-    "deploy": "surge -p build"
+    "deploy": "aws s3 cp build/ s3://compare.views.tools --recursive"
   },
   "devDependencies": {
     "@viewstools/e2e": "^0.1.3",
