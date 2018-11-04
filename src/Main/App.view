@@ -61,7 +61,7 @@ lineHeight 1.5
 text Views lives beside your app in development mode and helps you build durable UIs faster
 
 Vertical
-onClick <
+goTo https://s3.amazonaws.com/views-tools/ViewsTools.dmg
 backgroundColor #22cd6b
 marginTop 30
 width 250
@@ -98,8 +98,8 @@ fontWeight 300
 text If you have questions or don't agree with the comparison above reach out to us via
 
 Vertical
-onClick <slack
 marginRight auto
+goTo https://slack.views.tools
 Text
 marginLeft 4
 color #3094e7
@@ -109,6 +109,8 @@ fontWeight 500
 text our Slack team
 
 
+Vertical
+goTo https://views.tools
 Views
 width 30
 height 30
