@@ -2,30 +2,23 @@ App Vertical
 flexGrow 1
 flexShrink 0
 flexBasis auto
+Vertical
 marginLeft auto
 marginRight auto
+paddingBottom 30
 Text
 width 1010
 marginTop 50
 color #424242
 fontFamily Montserrat
-fontSize 40
+fontSize 50
 fontWeight 600
-text Better alternative to FramerX, Storybook, and Supernova
-
-Text
-width 1010
-marginTop 20
-color #424242
-fontFamily Montserrat
-fontSize 25
-fontWeight 300
-text Views lives beside your app in development mode and helps you build durable UIs faster
+text How do Views Tools compare to FramerX, Storybook, and Supernova?
 
 Stats Horizontal
 height 300
 Stat
-tool Framer X
+tool FramerX
 points <framerx 18
 total <
 
@@ -56,3 +49,66 @@ total <
 
 Compare
 from <comparison
+
+Text
+marginTop 120
+color #424242
+fontFamily Montserrat
+fontSize 30
+width 800
+fontWeight 300
+lineHeight 1.5
+text Views lives beside your app in development mode and helps you build durable UIs faster
+
+Vertical
+onClick <
+backgroundColor #22cd6b
+marginTop 30
+width 250
+alignItems center
+paddingTop 10
+paddingBottom 10
+borderTopLeftRadius 8
+borderTopRightRadius 8
+borderBottomLeftRadius 8
+borderBottomRightRadius 8
+scale 1
+cursor pointer
+when <isHovered
+scale 1.1 easeInOut
+Text
+text Download Views Tools 1
+fontFamily Montserrat
+fontSize 18
+color #ffffff
+
+
+Horizontal
+borderTopColor #e8e8e8
+borderTopWidth 1
+borderTopStyle solid
+marginTop 200
+paddingTop 20
+alignItems center
+Text
+color #424242
+fontFamily Montserrat
+fontSize 16
+fontWeight 300
+text If you have questions or don't agree with the comparison above reach out to us via
+
+Vertical
+onClick <slack
+marginRight auto
+Text
+marginLeft 4
+color #3094e7
+fontFamily Montserrat
+fontSize 16
+fontWeight 500
+text our Slack team
+
+
+Views
+width 30
+height 30

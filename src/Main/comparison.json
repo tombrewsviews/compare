@@ -80,8 +80,8 @@
       "viewsnext": true
     },
     {
-      "feature": "Design system preview",
-      "description": "Access all components used in the project. Usually, a design system allows to browse and preview all parts of the project on their own",
+      "feature": "Design system components preview",
+      "description": "Access all components used in the project. Browse and preview each part of the project on its own",
       "framerx": true,
       "storybook": true,
       "supernova": false,

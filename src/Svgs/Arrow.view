@@ -1,0 +1,13 @@
+Arrow Svg
+alignSelf < auto
+marginTop < 0
+marginBottom < 0
+marginLeft < 0
+marginRight < 0
+opacity < 1
+viewBox 0 0 30 30
+width < 30
+height < 30
+SvgPath
+fill < #363636
+d M8.5 2.6L26 15 8.5 27.4

@@ -8,29 +8,33 @@ Tooltip
 isShowing <isShowingTooltip
 text <description
 
+Horizontal
+scale 1
+when <isShowingTooltip
+scale 1.02 linear
 Feature Horizontal
 alignItems center
 width 500
 onClick <
 Text
-color #323232
+color #5c5c5c
 fontFamily Montserrat
 fontSize 16
 fontWeight 400
 text <feature Design system preview
-scale 1
-transformOriginX left
-transformOriginY top
 when <isShowingTooltip
-scale 1.05 linear
+color #424242 linear
 
-Text
+Vertical
 position absolute
 right 20
-text >
 opacity 0
 when <isShowingTooltip
 opacity 1 linear
+Arrow
+width 20
+height 20
+
 
 
 Framer Mark
